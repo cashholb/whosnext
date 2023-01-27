@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "203780219336",
+    "project_id": "who-s-next-dd97b",
+    "storage_bucket": "who-s-next-dd97b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203780219336:android:4e8e2eeeee6218aefc20fd",
+        "android_client_info": {
+          "package_name": "com.example.whosnext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203780219336-jetaj02s8v4qc7jcpg4lums7872rue7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmh8BdEJpn7_i8HXVglzMsnNGjYSEM_xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203780219336-jetaj02s8v4qc7jcpg4lums7872rue7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203780219336-tffna0q7p3mf5dsfs4nhsomm4octndrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whosnext"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
